@@ -1,0 +1,3 @@
+[submodule "learn-rust-functions"]
+	path = learn-rust-functions
+	url = git@github.com:tanmayc07/learn-rust-functions.git
